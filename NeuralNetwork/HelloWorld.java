@@ -1,5 +1,5 @@
 public class HelloWorld {
-    static String target = "Hello I want to jump into a pit of lava";
+    static String target = "Hello World!";
     static String alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz \',.:;\"\\/?<>!@#$%^&*()_+-=1234567890{}[]\n";
 
     public static void main(String[] args) {
@@ -45,8 +45,8 @@ public class HelloWorld {
             if (line.length() > 0) {
                 for (int j = 0; j < target.length(); j++) {
                     if (target.charAt(j) == line.charAt(j)) {
-                        word[j] = line.charAt(j);
-                        keep[j] = true;
+                        //word[j] = line.charAt(j);
+                        //keep[j] = true;
                     }
                 }
             }
