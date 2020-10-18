@@ -1,7 +1,5 @@
-package NN;
-
 public class HelloWorld {
-    public static String target = "A robot may not injure a human being or, through inaction, allow a human being to come to harm.\nA robot must obey orders given it by human beings except where such orders would conflict with the First Law.\nA robot must protect its own existence as long as such protection does not conflict with the First or Second Law.";
+    public static String target = "Hello World!";
     public static String alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz \',.:;\"\\/?<>!@#$%^&*()_+-=1234567890{}[]\n";
 
     public static void main(String[] args) {
