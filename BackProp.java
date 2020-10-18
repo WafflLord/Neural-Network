@@ -1,5 +1,3 @@
-package NN;
-
 import java.util.ArrayList;
 
 public class BackProp
